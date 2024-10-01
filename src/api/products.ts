@@ -1,4 +1,3 @@
-// products.ts
 export const products = [
   {
     id: 1,
